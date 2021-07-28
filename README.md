@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="experts-club" src="https://github.com/ecrozatti/NextJS_TailwindCSS_FramerMotion/blob/main/.github/experts-club.png" width="250px" />
+    <img alt="experts-club" src="https://github.com/ecrozatti/react-memoization-hooks/blob/main/.github/experts-club.png" width="250px" />
 </h1>
 
 <p align="center">
@@ -9,19 +9,23 @@
   <a href="#rocket-começando">Começando</a>
 </p>
 
-<h1 align="center">
-    <img alt="light-mode" src="https://github.com/ecrozatti/DataFetching_NextJS/blob/main/.github/application.png" width="600px"/>
-    <img alt="dark-mode" src="https://github.com/ecrozatti/DataFetching_NextJS/blob/main/.github/application.png" width="600px"/>
-</h1>
+Light Mode
+:-------------------------:
+![](https://github.com/ecrozatti/react-memoization-hooks/blob/main/.github/interface-light-mode.png)
+
+Dark Mode
+:-------------------------:
+![](https://github.com/ecrozatti/react-memoization-hooks/blob/main/.github/interface-dark-mode.png)
+
 
 ## :page_with_curl: Sobre
-![GitHub language count](https://img.shields.io/github/languages/count/ecrozatti/NextJS_TailwindCSS_FramerMotion)
-![GitHub top language](https://img.shields.io/github/languages/top/ecrozatti/NextJS_TailwindCSS_FramerMotion)
-![GitHub repo size](https://img.shields.io/github/repo-size/ecrozatti/NextJS_TailwindCSS_FramerMotion)
-![GitHub](https://img.shields.io/github/license/ecrozatti/NextJS_TailwindCSS_FramerMotion)
-![GitHub last commit](https://img.shields.io/github/last-commit/ecrozatti/NextJS_TailwindCSS_FramerMotion)
+![GitHub language count](https://img.shields.io/github/languages/count/ecrozatti/react-memoization-hooks)
+![GitHub top language](https://img.shields.io/github/languages/top/ecrozatti/react-memoization-hooks)
+![GitHub repo size](https://img.shields.io/github/repo-size/ecrozatti/react-memoization-hooks)
+![GitHub](https://img.shields.io/github/license/ecrozatti/react-memoization-hooks)
+![GitHub last commit](https://img.shields.io/github/last-commit/ecrozatti/react-memoization-hooks)
 
-O aplicativo consumirá dados da API GitHub, navegando por vários conceitos de melhoria e análise de desempenho, usando hooks como useMemo e useCallback a nosso favor para controlar o desempenho da aplicação, fazendo memoização de cálculos e funções pesadas.
+O aplicativo consome dados da API GitHub e navega por vários conceitos de melhoria e análise de desempenho, usando hooks como useMemo e useCallback para controlar o desempenho da aplicação, fazendo memoização de cálculos e funções pesadas.
 
 Durante essa aula também vimos como analisar nossa renderização com React Developer Tools e usar a API Memo do React para evitar renderizações desnecessárias de nossos componentes.
 
