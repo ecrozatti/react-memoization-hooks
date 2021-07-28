@@ -5,7 +5,7 @@ export default function Navbar({ theme, toogleDarkmode }) {
     <nav id="header" className="fixed w-full">
       <div
         style={{ backgroundColor: theme }}
-        className="relative w-full z-10  top-0 "
+        className="relative w-full z-10 top-0"
       >
         <div className="w-full container mx-auto flex flex-wrap items-center justify-between mt-0 py-4">
           <div className="pl-4 flex items-center">

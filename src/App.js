@@ -2,7 +2,7 @@ import React from "react";
 
 import Navbar from "./Components/Navbar";
 import { HeadCounter } from "./Components/Counter";
-import { RepositoryList } from "./Components/RepositortList";
+import { RepositoryList } from "./Components/RepositorytList";
 import { FabButton } from "./Components/FabButton";
 
 import { likesCounter } from "./Services/expensiveCalculation";
